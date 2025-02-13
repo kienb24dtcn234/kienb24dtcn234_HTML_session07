@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(241, 240, 240);
+}
+
+.back1 {
+    border: 1px solid rgb(197, 190, 190);
+    height: 200px;
+    width: 310px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 2px;
+}
+
+h1 {
+    color: rgb(194, 3, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: rgb(2, 2, 138);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.back2 {
+    border: 1px solid rgb(197, 190, 190);
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: 400;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+    margin-left: -10px;
+    margin-top: -20px;
+}

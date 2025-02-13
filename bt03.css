@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.article {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.editor{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.article-image {
+    width: 100%;
+    height: auto;
+}
+
+.article1 {
+    font-size: 24px;
+    margin: 15px 20px;
+    color: rgb(41, 40, 40);
+}
+
+.article2 {
+    font-size: 14px;
+    color: gray;
+    margin: 5px 20px;
+}
+
+.article3 {
+    font-size: 16px;
+    color: rgb(84, 75, 75);
+    margin: 15px 20px;
+}
